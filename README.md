@@ -1,0 +1,1 @@
+# omnirom_device_Evercoss_A66A
