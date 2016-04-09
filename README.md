@@ -1,13 +1,13 @@
 ----omnirom for MTK hardware.---
 # Omnirom
 
-This is a device tree for Evercoss A66A which is based on MT6582 SoC. Powered by ferhung.
+This is a device tree for Evercoss which is based on MT6582 SoC. Powered by ferhung.
 # Build
 
 * init
   Sync Omnirom source:
 
-        # repo init -u git://github.com/odinkrieger11-mtk/android-mtk.git -b android-6.0        
+        # repo init -u git://github.com/odinkrieger11/android-mtk.git -b android-6.0        
         # repo sync
 
 * full build

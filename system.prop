@@ -1,5 +1,5 @@
 #
-# system.prop for A66A
+# system.prop for A66A build @DheaApriandi
 #
 service.adb.root=1
 ro.sf.lcd_density=320
@@ -32,7 +32,7 @@ ril.radiooff.poweroffMD=0
 ril.active.md=0
 
 ro.telephony.ril_class=MediaTekRIL
-ro.telephony.ril.config=fakeiccid
+#ro.telephony.ril.config=fakeiccid
 
 ro.nfc.port=I2C
 mtknfc.status.type=unknow
